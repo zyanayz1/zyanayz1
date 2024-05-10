@@ -2,7 +2,8 @@
 - 👀 I’m interested in : music and fun time!
 - 🌱 I’m currently learning : css e html
 - 💞️ I’m looking to collaborate on :  nobody
-- 📫 How to reach me vi instagram : @zyanayz bjs mo
+- 📫 How to reach me :  via instagram
+-  @zyanayz bjs mo
 - 😄 Pronouns: she
 - ⚡ Fun fact: i love rose from blackpink minha mo
 
