@@ -2,10 +2,9 @@
 - 👀 I’m interested in : music and fun time!
 - 🌱 I’m currently learning : css e html
 - 💞️ I’m looking to collaborate on :  nobody
-- 📫 How to reach me :  via instagram
--  @zyanayz bjs mo
+- 📫 How to reach me : via instagram
 - 😄 Pronouns: she
-- ⚡ Fun fact: i love rose from blackpink minha mo
+- ⚡ Fun fact: i love rose from blackpink 
 
 <!---
 zyanayz1/zyanayz1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
